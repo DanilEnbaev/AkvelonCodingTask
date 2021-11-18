@@ -5,9 +5,9 @@
  * in a word- ChangeOfElement; method for checking valid data- checkValidInput;
  * method of creating anagrams - makeAnagram; anagram counting method getAnagram
  *
- * @author danilenbaev
+ * @author Danil Enbaev
  * @version 1.0
- * @since 15.11.21
+ * @since 18.11.21
  */
 public class Anagram {
     private static final int MAX_SIZE_ANAGRAM = 100;
